@@ -1,0 +1,32 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+
+/* Colors:
+
+blue #76949f
+Green #788475
+Grey #5e5d5c
+*/
+
+.bg-green{
+    background-color: #788475;
+}
+
+.bg-light-green{
+    background-color: #78847544;
+}
+
+.bg-blue{
+    background-color: #76949f;
+}
+
+.bg-light-blue{
+    background-color: #76949f44;
+}
+
+.background-color{
+    background-color: beige;
+    padding: 30px;
+}
